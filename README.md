@@ -13,7 +13,7 @@ I've always had an interst in Cybersecurity but have decided to learn more of th
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/janssen17/SIEM-Log-Analysis/blob/main/README.md">SIEM Log Analysis</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://janssen17.github.io/SIEM-Log-Analysis/">SIEM Log Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
