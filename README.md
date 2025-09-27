@@ -1,14 +1,12 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Janssen
+<a href="https://www.linkedin.com/in/janssen-abes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity Graduate student with a strong interest in all things technology. I love solving complex problems and learning new techinques and methodologies. 
+I'll continually update this page to document my progression as I learn to become a cybersecurity professional.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I've always had an interst in Cybersecurity but have decided to learn more of the fundamentals by working in a support IT role. Having gained the experience that I desired, I am now preparing to make a transition to cybersecurity and hopefully get a role as either a SOC Analyst, a Penetration Tester or a Security Engineer. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
